@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         YT to invidious ♥️
-// @namespace    https://viayoo.com/
+// @namespace    https://heartlog.github.io/
 // @version      0.1
 // @description  try to take over the world!
 // @author       https://github.com/heartlog/
