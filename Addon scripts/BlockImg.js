@@ -12,7 +12,6 @@
 // @grant         GM_deleteValue
 // @grant         GM_getValue
 // @grant         GM_info
-
 // ==/UserScript==
 
 (function() {
