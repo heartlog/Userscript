@@ -1,26 +1,8 @@
-# Userscript for manganelo and Bato.to
-### What it does ?
-Simple put, this userscript sends URL of manga chapter 
-You're reading to pixwy.com api. That gives screenshot
-In raw (photo) format to user.
+# Userscript repository
+This repo contains the Userscript made by me while learning about javascript. I personally use these scripts to simplify my web experience.
 
-### What's advantage we get ?
-A normal manga page (b&w) consumes `1.7-3 MB` data.
-So, a single chapter having roughly 15 pages will 
-Takes about 25.5-45MB.
+# What is Userscript ?
+A userscript is a small JavaScript program that can be installed and run in a web browser using extensions like Tampermonkey or Greasemonkey. Userscripts are used to enhance or modify the behavior of web pages, allowing users to customize their browsing experience. They can add new features, change the appearance of websites, automate tasks, and more. Userscripts are shared through online repositories, where developers upload their scripts for others to install. By injecting custom code into web pages, userscripts empower users to personalize their browsing and make it more efficient and enjoyable.
 
-You think it's not much but reading only 30 Chapters 
-Of manga will cost 1350MB ~1.35 GB !!!
-
-Let alone completing a manga, can't even read it's 
-Half chapters.
- So, by taking screenshot from external source saves data.
-1ful chapter will roughly about 5-6 MB saves data!
-
-Also, by using this we can save time, where it takes 
-Ages to load 1 page on manga site.
-
-### How to use it ?
-You can use this in any userscript supporting extension.
-But I recommend using Via browser. That is also open 
-Source so you can Download it from play store.
+## How to install ? 🐧
+Installing scripts from our repository is quick and easy. We support popular user script managers for various browsers, such as Tampermonkey and Greasemonkey, ensuring compatibility across multiple platforms. Simply choose the script you want, click the install button, and let the magic happen. Our repository also provides step-by-step instructions and troubleshooting tips to assist you throughout the installation process. You can also use Via browser to use these scripts.
