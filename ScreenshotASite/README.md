@@ -6,9 +6,8 @@ In raw (photo) format to user.
 
 ### What's advantage we get ?
 1.  Let's assume normal manga page (black and white) consumes `1.7-3 MB` data.(Colour pages takes more that B&W pages.)
-2.  So, a single chapter having roughly 15 pages will 
-3.  Takes about `25.5-45 MB`.
-4.  You think it's not much but reading only **30 Chapters** Of manga will cost `1350 MB ~1.35 GB` !!!
+2.  So, a single chapter having roughly **15 pages** will Takes around `25.5-45 MB`.
+3.  You think it's not much but reading only **30 Chapters** Of manga will cost `1350 MB ~1.35 GB` !!!
 Let alone completing a manga, can't even read it's Half chapters.
 
 ## What id does ?
