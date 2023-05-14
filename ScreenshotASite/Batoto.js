@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         manga to Pikwy screenshot ♥️
+// @name         batoto to Pikwy screenshot ♥️
 // @namespace    https://heartlog.github.com
 // @version      0.3
 // @description  try to take over the world!
