@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         batoto screenshot ♥️
-// @namespace    https://heartlog.github.io/
+// @namespace    https://heartlog.github.io
 // @version      0.4
 // @description  try to take over the world!
 // @author       heartlog
@@ -19,7 +19,7 @@
 
 
 function PixRedi(FinUrl) {
-  var PixReady = "https://api.pikwy.com/?tkn=125&d=3000&u=" + FinUrl + "&fs=1&w=530&h=812&s=100&z=100&f=jpg&rt=raw";
+  var PixReady = "https://api.pikwy.com/?tkn=125&d=3000&u=" + FinUrl + "&fs=1&w=360&h=740&s=100&z=100&f=jpg&rt=raw";
   location.href = PixReady;
 }
 /*
